@@ -20,4 +20,6 @@ The user has 5 choices:
 4. Display telephone book
 5. End program
 
+All names/numbers are stored depending on the hash code.
+
 [Project Link](https://github.com/gviloria/gviloria.github.io/tree/master/projects/Project_2)
