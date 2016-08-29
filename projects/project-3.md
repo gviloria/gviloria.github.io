@@ -16,6 +16,7 @@ This project pretty much has the same functionality as Project 1 except this is 
 For this project I added another choice which allows the user to reverse the list.
 
 If the choice is 
+
 1. Add a record
 2. Modify a record and allow the user to change the NAME,
 3. Prints a record and prints all duplicates with same account number
