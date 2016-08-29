@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/choose-device.png
-title: Vacay
+title: Telephone Book
 permalink: projects/project_2
 date: 2015
 labels:
