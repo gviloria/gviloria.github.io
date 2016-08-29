@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/bank.png
 title: Bank Database
 permalink: projects/micromouse
 date: 2016
