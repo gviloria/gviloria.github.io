@@ -7,6 +7,6 @@ permalink: projects/micromouse
 date: 2016
 labels:
   - C
-summary: A bank database application.
+summary: A bank database application that allows the user to add/delete/edit bank accounts. 
 ---
 
