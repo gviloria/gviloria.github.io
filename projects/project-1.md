@@ -19,14 +19,13 @@ summary: A bank database application that allows the user to add/delete/edit ban
    
    Upon opening the program, the user will have 6 choices:
    
-* 1) Add a new record
-* 2) Modify a record
-* 3) Print a record
-* 4) Print all records
-* 5) Delete a record
-* 6) Quit
-   
-
+1. Add a new record
+2. Modify a record
+3. Print a record
+4. Print all records
+5. Delete a record
+6. Quit
+  
    When the user adds a record [CHOICE (1)], they will be prompted to provide:
    - A customized account number
    - Name
