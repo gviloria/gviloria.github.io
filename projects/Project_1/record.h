@@ -2,14 +2,6 @@
  *
  * NAME:            Gabriel Viloria
  *
- * HOMEWORK:        Project 1
- *
- * CLASS:           ICS 212
- *
- * INSTRUCTOR:      Ravi Narayan
- *
- * DATE:            March 4, 2016
- *
  * FILE:            record.h
  *
  * DESCRIPTION:     This file contains the record structure which contains information about
