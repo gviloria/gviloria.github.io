@@ -3,7 +3,7 @@
  * NAME:            Gabriel Viloria
  *
  * DESCRIPTION:     
- *                                                   The
+ *                                                   This
  *                  program is a user-interface for a bank database application which allows
  *                  the user to: add a new record in the database, modify a record in the database,
  *                  print information about a record using the account as a key, print all
