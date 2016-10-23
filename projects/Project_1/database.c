@@ -2,15 +2,7 @@
  *
  * NAME:            Gabriel Viloria
  *
- * HOMEWORK:        Project 1
- *
- * CLASS:           ICS 212
- *
- * INSTRUCTOR:      Ravi Narayan
- *
  * DATE:            March 4, 2016
- *
- * FILE:            database.c
  *
  * DESCRIPTION:     This file contains the driver and necessary functions for Project 2. The
  *                  program is a user-interface for a bank database application which allows
