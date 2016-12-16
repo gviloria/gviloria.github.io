@@ -11,7 +11,7 @@ labels:
 summary: A collection of my pieces of art.
 ---
 
-[My Art Gallery](http://xiloria.deviantart.com/)
+My art gallery can be found through [this link](http://xiloria.deviantart.com/)
 
 <img src="../images/my_art2.jpg" style="max-width:90%;">
 
