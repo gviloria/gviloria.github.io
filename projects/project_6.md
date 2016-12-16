@@ -17,9 +17,9 @@ summary: A web application I created for artists.
 Art.Companion is web application I created for artists to keep track of their own artwork, their favorite artists and their artwork,
 as well as artwork online. It is PHP based and uses PHP, HTML, and Javascript.
 
-Here are screenshots of my web application.
-
 If you have any questions regarding the web application, feel free to send me an email!
+
+Here are screenshots of my web application:
 
 ##Landing Page
 <img src="../images/landing_page.png" style="max-width:90%;">
