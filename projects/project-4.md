@@ -13,6 +13,8 @@ summary: A web application that allows users to learn more about every plant on 
 
 [Our project page](https://letumgrow.github.io/)
 
+<img src="../images/LetUmGrow.png" style="max-width:100%;">
+
 I am part of an organization that made a web application for our University called LetUmGrow.
 
 LetUmGrow is a social network for plants located on the UH Manoa Campus.
