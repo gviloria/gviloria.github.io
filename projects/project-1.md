@@ -10,6 +10,8 @@ labels:
 summary: A bank database application that allows the user to add/delete/edit bank accounts. 
 ---
 
+<img src="../images/bankimg.png" style="max-width:100%;">
+
 [Project Link](https://github.com/gviloria/gviloria.github.io/tree/master/projects/Project_1)
 
    The program is able to run in (2) modes - DEBUG & NORMAL
