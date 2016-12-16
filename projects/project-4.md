@@ -21,13 +21,13 @@ For this project, I contributed by creating the application's logo, creating the
 
 Working as a team of five has given me a good understanding of just how important communication is when working on a single project with multiple people. When there isn't any communication, it won't end well at all. For example, if someone committed a change to our project's master branch without telling the others, and someone else commits, other people who update from the master branch will get surely get errors which takes up production time.
 
-With this group I'm working with, we've always had excellent communication between each other so project development went along rather smoothly. When problems came up for some members, the group would cover for them no questions asked. Everyone was understanding and always had a positive attitude. Overall, this has been an amazing experience. Our group has gone through so much obstacles and we've overcome them as a team.
+With this group I'm working with, we've always had excellent communication between each other so project development went along rather smoothly. We've always had small meetings right after class and 2-hour meetings during the weekends to discuss how to split up the workload for a certain milestone. When problems came up for some members, the group would cover for them no questions asked. Everyone was understanding and always had a positive attitude. Overall, this has been an amazing experience. Our group has gone through so much obstacles, we've overcome them as a team, and we've learned so much from each other.
 
 Even though our semester together is ending, most of us still want to continue working on the application to improve it even more. 
-We hope to push it out to the public as soon as we think it's ready!
+This is in hopes to push it out to the public (our campus) as soon as we think it's ready!
 
 Unfortunately, right now our application is only usable by students registered for the University of Hawaii at Manoa. 
-However, we do plan on making it work outside of our campus in the near future.
+However, we do plan on making it work outside of our campus in the near future. Stay tuned!
 
 
 
