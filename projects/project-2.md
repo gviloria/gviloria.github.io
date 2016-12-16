@@ -10,6 +10,9 @@ labels:
 summary: A basic telephone book program.
 ---
 
+
+<img src="../images/telephonebook.png" style="max-width:100%;">
+
 A Java program to make a mini-telephone directory using a hash table with separate chaining. The hash table is implemented with class TelephoneBook, which stores an array of seven (7) LinkedList objects.
 
 The user has 5 choices:
