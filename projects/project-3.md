@@ -10,7 +10,9 @@ labels:
 summary: A C++ implementation of Project 1.
 ---
 
-[Project 3 Link](https://github.com/gviloria/gviloria.github.io/tree/master/projects/Project_3)
+<img src="../images/bankimg2.png" style="max-width:60%;">
+
+Here is the [Project Link](https://github.com/gviloria/gviloria.github.io/tree/master/projects/Project_3)
 
 This project pretty much has the same functionality as Project 1 except this is an implementation of it in C++.
 For this project I added another choice which allows the user to reverse the list.
