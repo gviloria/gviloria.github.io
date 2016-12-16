@@ -12,7 +12,7 @@ labels:
 summary: A collection of my pieces of art.
 ---
 
-<center>[My Art Gallery](http://xiloria.deviantart.com/)</center>
+[My Art Gallery](http://xiloria.deviantart.com/)
 
 I've always had an interest for Art since I was a child. My dad was the one who inspired me to get into art because he'd always show me 
 his drawings back when he was still in college as an architectural student. 
