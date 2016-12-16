@@ -12,7 +12,7 @@ labels:
 summary: A web application that allows users to learn more about every plant on University of Hawaii at Manoa's campus.
 ---
 
-<center>[Our project page](https://letumgrow.github.io/)</center>
+[Our project page](https://letumgrow.github.io/)
 
 I am part of an organization that made a web application for our University called LetUmGrow.
 
