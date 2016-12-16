@@ -7,7 +7,7 @@ permalink: projects/project_3
 date: 2014
 labels:
   - C++
-summary: A C++ implementation of Project 1.
+summary: A C++ implementation of my 'Bank Database' project.
 ---
 
 <img src="../images/bankimg2.png" style="max-width:60%;">
