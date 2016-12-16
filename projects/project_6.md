@@ -13,7 +13,7 @@ labels:
 summary: Art.Companion is web application I created for artists to keep track of their own artwork, their favorite artists and their artwork, as well as artwork online. It is PHP based and uses PHP, HTML, and Javascript.
 ---
 
-[Project Link](https://github.com/gviloria/art.companion)
+Here is the [Project Link](https://github.com/gviloria/art.companion)
 
 Art.Companion is web application I created for artists to keep track of their own artwork, their favorite artists,
 as well as artwork online. It is PHP based and uses PHP, HTML, and Javascript.
