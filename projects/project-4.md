@@ -12,7 +12,7 @@ summary: A web application that allows users to learn more about every plant on 
 ---
 <img src="../images/LetUmGrow.png" style="max-width:100%;">
 
-Here is our web application's page:[LetUmGrow Page](https://letumgrow.github.io/)
+                                          [LetUmGrow Page](https://letumgrow.github.io/)
 
 I am part of an organization that made a web application intended for the University of Hawaii at Manoa called LetUmGrow.
 LetUmGrow is basically a web application that allows users to learn more about our campus's plants. 
