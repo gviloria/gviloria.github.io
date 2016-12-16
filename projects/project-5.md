@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/my_art1.jpg
+image: images/artlogo.jpg
 title: My Art
 date: 2016
 labels:
