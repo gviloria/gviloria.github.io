@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing_page.png
+image: images/artcompanion.png
 title: Art.Companion
 date: 2016
 labels:
