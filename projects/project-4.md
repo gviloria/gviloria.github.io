@@ -10,10 +10,9 @@ labels:
   - Meteor
 summary: A web application that allows users to learn more about every plant on University of Hawaii at Manoa's campus.
 ---
-
-[Our project page](https://letumgrow.github.io/)
-
 <img src="../images/LetUmGrow.png" style="max-width:100%;">
+
+[LetUmGrow Page](https://letumgrow.github.io/)
 
 I am part of an organization that made a web application intended for the University of Hawaii at Manoa called LetUmGrow.
 
