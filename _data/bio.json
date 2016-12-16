@@ -37,6 +37,11 @@
       "name": "Computer Graphics",
       "keywords": [
       ]
+    },
+    {
+      "name": "Software Development",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -52,7 +57,8 @@
         "Meteor",
         "PHP",
         "jQuery",
-        "HTML"
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -78,10 +84,6 @@
     }
   ],
   "work": [
-  ],
-  "volunteer": [
-  ],
-  "awards": [
   ],
   "references": [
     {
