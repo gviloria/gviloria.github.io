@@ -8,7 +8,7 @@ labels:
   - Digital Art
   - Painting
   - Drawings
-summary: A collection of my pieces of art.
+summary: A portfolio of some of my artwork I've created throughout the years. What sparked my interest in art and programming.
 ---
 <img src="../images/my_art2.jpg" style="max-width:90%;">
 
@@ -20,10 +20,10 @@ I always loved and still love sharing my art with my friends and family.
 <img src="../images/my_art3.jpg" style="max-width:90%;">
 
 Through art, my love for programming also sparked. I've always appreciated and enjoyed the art design from all the video games I've played
-throughout the years. At one point I got so inspired, I wanted to learn how the developers built my favorite video games. I wanted to make
-my own game to share with others, and it is still a dream of mine. 
+throughout the years. And at one point I got so inspired, that I wanted to learn how the programmers pieced together my favorite video games. I wanted to learn the process of coding in hopes to make my own game or application to share with others just like I have been with my art. Which is why I'm studying CS!
 
-What amazes me is that with art and programming, you can build something absolutely beautiful and amazing...almost out of nothing!
+What amazes me is that with art and programming, you can build something absolutely beautiful and amazing...almost out of nothing! My creativity can run wild through both.
+
 Anyways, I hope you enjoy my art!
 
 My art gallery can be found [here](http://xiloria.deviantart.com/)
