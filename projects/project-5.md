@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/my_art1.jpg
-title: Art
+title: My Art
 date: 2016
 labels:
   - Digital Art
