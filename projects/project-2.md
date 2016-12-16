@@ -9,9 +9,9 @@ labels:
   - Java
 summary: A basic telephone book program.
 ---
-
-
 <img src="../images/telephonebook.png" style="max-width:100%;">
+
+Here is the [Project Link](https://github.com/gviloria/gviloria.github.io/tree/master/projects/Project_2)
 
 A Java program to make a mini-telephone directory using a hash table with separate chaining. The hash table is implemented with class TelephoneBook, which stores an array of seven (7) LinkedList objects.
 
@@ -24,5 +24,3 @@ The user has 5 choices:
 5. End program
 
 All names/numbers are stored depending on the hash code.
-
-[Project Link](https://github.com/gviloria/gviloria.github.io/tree/master/projects/Project_2)
