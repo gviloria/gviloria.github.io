@@ -15,13 +15,13 @@ summary: A web application that allows users to learn more about every plant on 
 
 <img src="../images/LetUmGrow.png" style="max-width:100%;">
 
-I am part of an organization that made a web application for our University called LetUmGrow.
+I am part of an organization that made a web application intended for the University of Hawaii at Manoa called LetUmGrow.
 
-LetUmGrow is a social network for plants located on the UH Manoa Campus.
+LetUmGrow is basically a web application that allows users to learn more about our campus's plants. 
 
-Looking for a specific plant or want to learn more about a plant that you've seen? Our interactive map displays the location of nearby plants and links to each plant profile.
+Unfortunately, our application is only usable by students registered for our campus. However, we do plan on making it work outside of our campus in the near future!
 
-Spotted a new plant on campus? Create a profile page for that plant and add updates to its feed, like pictures or statuses. Keep track of plants in your garden or view what plants are on your favorite hike with LetUmGrow. Who knows, there might even be a reward waiting for you if you do!
+
 
 
 
