@@ -3,7 +3,6 @@ layout: project
 type: project
 image: images/my_art1.jpg
 title: Art
-permalink: projects/micromouse
 date: 2016
 labels:
   - Digital Art
