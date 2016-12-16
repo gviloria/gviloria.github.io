@@ -10,9 +10,6 @@ labels:
   - Drawings
 summary: A collection of my pieces of art.
 ---
-
-My art gallery can be found through [this link](http://xiloria.deviantart.com/)
-
 <img src="../images/my_art2.jpg" style="max-width:90%;">
 
 I've always had an interest for Art since I was a child. My dad was the one who inspired me to get into art because he'd always show me 
@@ -28,3 +25,5 @@ my own game to share with others, and it is still a dream of mine.
 
 What amazes me is that with art and programming, you can build something absolutely beautiful and amazing...almost out of nothing!
 Anyways, I hope you enjoy my art!
+
+My art gallery can be found [here](http://xiloria.deviantart.com/)
