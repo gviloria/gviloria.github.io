@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/23145403.png
+image: images/letumgrowlogo.jpg
 title: LetUmGrow
 date: 2016
 labels:
