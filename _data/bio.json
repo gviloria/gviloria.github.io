@@ -96,12 +96,28 @@
   "work": [
     {
       "company": "Hollister Co." ,
-      "title": "Associate",
-      "location": "Honolulu, HI",
+      "position": "Associate",
+      "website": "",
       "startDate": "2014-08-18",
       "endDate": "Present",
-      "description": ""
-    }
+      "summary": "",
+    },
+    {
+      "company": "Target" ,
+      "position": "Associate",
+      "website": "",
+      "startDate": "2016-10-01",
+      "endDate": "2017-01-05",
+      "summary": "",
+    },
+    {
+      "company": "University of Hawaii",
+      "position": "Computer Support Specialist",
+      "website": "",
+      "startDate": "2017-01-09",
+      "endDate": "Present",
+      "summary": "",
+    },
   ],
   "references": [
     {
