@@ -106,7 +106,13 @@
       "website": "",
       "startDate": "2017-01-09",
       "endDate": "Present",
-      "summary": ["Troubleshoot software problems in a Microsoft environment.", " Assist with maintenance of computer systems and labs.", " Help tutor students taking ICS 101 classes.", " Assist with maintenance, updating, and design of databases and generation of reports.", " Manage the Nagatani Academic Center's website."]
+      "summary": ["Troubleshoot software problems in a Microsoft environment.", 
+      "highlights": [
+        "Assist with maintenance of computer systems and labs.",
+        "Help tutor students taking ICS 101 classes.", 
+        "Assist with maintenance, updating, and design of databases and generation of reports.",
+        "Manage the Nagatani Academic Center's website."
+      ] 
     },
     {
       "company": "University of Hawaii",
