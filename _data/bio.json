@@ -126,6 +126,27 @@
         "Analyzed site statistics to better improve site navigation."
        ]
     },
+    {
+      "company": "University of Hawaii",
+      "position": "ATA",
+      "website": "",
+      "startDate": "2018-01-01",
+      "endDate": "Present",
+      "highlights": [
+        "Assisted with teaching ICS 111 (Intro to Programming) labs.",
+        "Tutored students 3 hours a week during lab hours."
+       ]
+    },
+    {
+      "company": "University of Hawaii",
+      "position": "Tutor",
+      "website": "",
+      "startDate": "2018-01-01",
+      "endDate": "Present",
+      "highlights": [
+        "Tutored students mainly for Java classes, but tutored for programming in general."
+       ]
+    },
   ],
   "references": [
     {
